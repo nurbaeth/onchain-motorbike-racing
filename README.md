@@ -9,7 +9,7 @@
 - 🛠️ **Register** your custom motorbike with speed and control stats  
 - 🏁 **Join** open races against other registered players  
 - 🎲 **Race** outcome is calculated with a mix of stats and randomness  
-- 👑 **Winner** is automatically selected and recorded on-chain  
+- 👑 **Winner** is automatically selected and recorded on-chain   
 
 ---
 
